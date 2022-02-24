@@ -1,5 +1,5 @@
-package com.Saikat.product.dao;
-import com.Saikat.product.dto.Product;
+package com.Debajyoti.product.dao;
+import com.Debajyoti.product.dto.Product;
 
 public interface ProductDAO {
 	void create(Product product);
