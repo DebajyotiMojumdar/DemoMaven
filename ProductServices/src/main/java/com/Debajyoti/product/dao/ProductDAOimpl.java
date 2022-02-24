@@ -1,10 +1,10 @@
-package com.Saikat.product.dao;
+package com.Debajyoti.product.dao;
 
 import java.util.HashMap;
 import java.util.Map;
 
 
-import com.Saikat.product.dto.Product;
+import com.Debajyoti.product.dto.Product;
 
 public class ProductDAOimpl implements ProductDAO {
 	
