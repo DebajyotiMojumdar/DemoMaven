@@ -1,4 +1,4 @@
-Saikat com.Nabanita.product.dto;
+package com.Debajyoti.product.dto;
 
 public class Product {
 	private int id;
